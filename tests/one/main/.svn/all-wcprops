@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/clanham3/!svn/ver/299/Project/tests/one/main
+END
+TableTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/clanham3/!svn/ver/299/Project/tests/one/main/TableTest.java
+END
+TableCollectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/clanham3/!svn/ver/166/Project/tests/one/main/TableCollectionTest.java
+END
+XMLWriterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/clanham3/!svn/ver/258/Project/tests/one/main/XMLWriterTest.java
+END
+XMLFileReaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/clanham3/!svn/ver/240/Project/tests/one/main/XMLFileReaderTest.java
+END
+BinaryReaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/clanham3/!svn/ver/266/Project/tests/one/main/BinaryReaderTest.java
+END
+BinaryWriterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/clanham3/!svn/ver/275/Project/tests/one/main/BinaryWriterTest.java
+END

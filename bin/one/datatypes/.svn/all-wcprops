@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/clanham3/!svn/ver/296/Project/src/one/datatypes
+END
+CharType.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/clanham3/!svn/ver/296/Project/src/one/datatypes/CharType.java
+END
+AbstractType.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/clanham3/!svn/ver/339/Project/src/one/datatypes/AbstractType.java
+END
+DateType.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/clanham3/!svn/ver/296/Project/src/one/datatypes/DateType.java
+END
+IntegerType.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/clanham3/!svn/ver/296/Project/src/one/datatypes/IntegerType.java
+END
+RealType.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/clanham3/!svn/ver/296/Project/src/one/datatypes/RealType.java
+END
+VarcharType.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/clanham3/!svn/ver/296/Project/src/one/datatypes/VarcharType.java
+END
+BooleanType.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/clanham3/!svn/ver/296/Project/src/one/datatypes/BooleanType.java
+END

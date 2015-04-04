@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/clanham3/!svn/ver/311/Project/tests/one/commands
+END
+PrintCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/clanham3/!svn/ver/64/Project/tests/one/commands/PrintCommandTest.java
+END
+RestoreCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/clanham3/!svn/ver/64/Project/tests/one/commands/RestoreCommandTest.java
+END
+DropCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/clanham3/!svn/ver/64/Project/tests/one/commands/DropCommandTest.java
+END
+UnionCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/clanham3/!svn/ver/64/Project/tests/one/commands/UnionCommandTest.java
+END
+MinusCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/clanham3/!svn/ver/64/Project/tests/one/commands/MinusCommandTest.java
+END
+DefineTableCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/clanham3/!svn/ver/64/Project/tests/one/commands/DefineTableCommandTest.java
+END
+ReadCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/clanham3/!svn/ver/64/Project/tests/one/commands/ReadCommandTest.java
+END
+DefineIndexCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/clanham3/!svn/ver/64/Project/tests/one/commands/DefineIndexCommandTest.java
+END
+InsertCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/clanham3/!svn/ver/64/Project/tests/one/commands/InsertCommandTest.java
+END
+ProjectCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/clanham3/!svn/ver/64/Project/tests/one/commands/ProjectCommandTest.java
+END
+SelectCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/clanham3/!svn/ver/64/Project/tests/one/commands/SelectCommandTest.java
+END
+RenameCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/clanham3/!svn/ver/64/Project/tests/one/commands/RenameCommandTest.java
+END
+ExitCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/clanham3/!svn/ver/64/Project/tests/one/commands/ExitCommandTest.java
+END
+IntersectCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/clanham3/!svn/ver/64/Project/tests/one/commands/IntersectCommandTest.java
+END
+AbstractCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/clanham3/!svn/ver/311/Project/tests/one/commands/AbstractCommandTest.java
+END
+BackupCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/clanham3/!svn/ver/64/Project/tests/one/commands/BackupCommandTest.java
+END
+UpdateCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/clanham3/!svn/ver/64/Project/tests/one/commands/UpdateCommandTest.java
+END
+JoinCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/clanham3/!svn/ver/64/Project/tests/one/commands/JoinCommandTest.java
+END
+DeleteCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/clanham3/!svn/ver/64/Project/tests/one/commands/DeleteCommandTest.java
+END
